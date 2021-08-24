@@ -1,0 +1,24 @@
+.keyContainer {
+  vertical-align: center;
+  display: inline-block;
+  width: 100px;
+  height: 100px;
+  border-radius: 50%;
+  border: 10px solid rgb(255, 255, 255);
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  font-size: 10px;
+}
+.keyContainer p {
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  font-size: 20px;
+}
+.container {
+  background-color: rgb(126, 126, 185);
+  width: fit-content;
+  padding: 10px 10px 10px 10px;
+  border-radius: 1rem;
+  color: white;
+}
+body {
+  border-radius: 1rem;
+}
